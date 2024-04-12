@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_place_holder">Гарри поттер</string>
+    <string name="place_place_holder">Октябрьский р-н</string>
+    <string name="date_place_holder">Сегодня, 17:54</string>
+    <string name="place_holder_count">25</string>
+    <string name="map_label">map</string>
+
+    <string-array name="book_titles">
+        <item>Гарри Поттер и Философский камень</item>
+        <item>Гарри Поттер и Тайная комната</item>
+        <item>Гарри Поттер и Узник Азкабана</item>
+        <item>Гарри Поттер и Кубок огня</item>
+        <item>Гарри Поттер и Орден Феникса</item>
+        <item>Гарри Поттер и Принц-полукровка</item>
+        <item>Гарри Поттер и Дары смерти</item>
+        <item>Властелин колец: Братство кольца</item>
+        <item>Властелин колец: Две крепости</item>
+        <item>Властелин колец: Возвращение короля</item>
+    </string-array>
+
+    <string-array name="book_places">
+        <item>Московский проспект</item>
+        <item>Ленинский район</item>
+        <item>Центральная площадь</item>
+        <item>Северный округ</item>
+        <item>Парковая улица</item>
+        <item>Зеленая аллея</item>
+        <item>Солнечный бульвар</item>
+        <item>Восточный проезд</item>
+        <item>Заречный переулок</item>
+        <item>Пролетарская улица</item>
+    </string-array>
+
+    <string-array name="book_dates">
+        <item>Сегодня, 17:54</item>
+        <item>Вчера, 14:23</item>
+        <item>10.03.2024, 09:15</item>
+        <item>08.03.2024, 18:30</item>
+        <item>05.03.2024, 12:45</item>
+        <item>02.03.2024, 20:10</item>
+        <item>27.02.2024, 16:55</item>
+        <item>24.02.2024, 10:20</item>
+        <item>20.02.2024, 13:40</item>
+        <item>15.02.2024, 09:05</item>
+    </string-array>
+
+
+
+
+</resources>
